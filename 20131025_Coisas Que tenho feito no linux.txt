@@ -1,0 +1,40 @@
+Lista de coisas que tenho feito no linux
+Porgramas que instalei
+	VIM 
+	pq vi no filme Os Estagiários pensei em tentar usar -não faço idéia de por onde começar
+	primeiro pelo terminal apt-get install vim
+	depois pelo dash board baixei o GVIM que é o graficalVIM
+	Editar no Vim - http://ubuntuforum-br.org/index.php?topic=18178.0
+		No Vim
+		Teclas:
+		Insert = entra em modo de edição
+		ESC = Sai do modo Insert
+		:wq = Grava e Sai do Vim
+	
+	Vim salvando - http://pt.wikibooks.org/wiki/Vim/Salvando
+
+
+	GIT - apt-get install git
+		Tenho que configurar
+	digitei todos os passos apresentados na página: https://help.github.com/articles/set-up-git
+	errei o primeiro que nomeia e não apresentou erro, e refiz correto
+	1º comando errado foi: git config --global use.name lpdess
+	faltou um "r", a palavra certa era "user.name"
+	para criar o repositório fui inventar de criar um repositório igualzinho tava na página , mas daí tinha que criar um repositório igual no github, enfim, não importa.
+	
+	
+	
+	
+Programas que quero instalar
+
+Java
+	http://www.vivaolinux.com.br/dica/Instalando-Java-no-Ubuntu
+LATEX
+	curso: http://www.mat.uc.pt/~pedro/lectivos/LaTeX/
+	apostila: http://www.icmc.usp.br/pessoas/francisco/SME0121/material/latex.pdf
+
+SUBLIME TEXT - é o editor de texto q o Tiago usa
+	http://www.sublimetext.com/
+	baixei versão 2.0.2 para 64bit
+
+

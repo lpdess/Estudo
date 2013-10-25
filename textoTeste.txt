@@ -1,2 +1,29 @@
-Este é um arquivo de texto
+Este é um arquivo de texto 
 
+
+
+agora alterado, vamos ver se entendi a idéia
+
+
+Primeiro antes de começar o trabalho, verifico se temos alterações no repositório remoto
+	git pull origin master
+dai começo a realizar minhas alterações
+crio documentos e faço o que tenho de fazer
+daí insiro as alterações na Staging Area com:
+ADICIONAR NA STAGING AREA - GIT MONITORA ALTERAÇÕES.
+	git add [nome do arquivo]
+estes arquivos ainda estão no meu computador, a diferença é que agora o git "sabe" que estes arquivos estão lá e vai monitorar suas alterações, se eu digitar "git status" ele vai mostrar os arquivos que foram alterados. Depois para coloca-los no repositório 
+
+COMO INSERIR NO REPOSITÓRIO?
+	 git commit -m "mensagem a respeito do commit"
+COMO ENVIAR PARA SERVIDOR? - para enviar para o servidor as alterações ja commitadas
+	git push -u origin master
+
+O QUE FOI COMMMITADO PARA O REPOSITÓRIO?
+git log
+
+
+O QUE HÁ DE NOVO?
+	git diff HEAD
+
+Staging area é o lugar onde organismos, pessoas, veículos, equipamentos ou materiais são montados (asembled) antes do uso.
